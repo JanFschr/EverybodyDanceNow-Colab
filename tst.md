@@ -4,7 +4,7 @@
 
 
 
-|  🧾 Colab Notebook  | : [Link](https://colab.research.google.com/drive/1bXW0bX3Kc_76MLyNsDWiXrIjiGUDxlMe?authuser=1) 
+|  🧾 Colab Notebook  | : [Link](https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/EverybodyDanceNow.ipynb) 
 
 
 

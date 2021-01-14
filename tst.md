@@ -4,10 +4,7 @@
 
 
 
-|  🧾 Colab Notebook  | 
- :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-**Notebook Link**
-**EverybodyDanceNow Notebook**: [Link](https://colab.research.google.com/drive/1bXW0bX3Kc_76MLyNsDWiXrIjiGUDxlMe?authuser=1) -- Works with latest DFL version
+|  🧾 Colab Notebook  | : [Link](https://colab.research.google.com/drive/1bXW0bX3Kc_76MLyNsDWiXrIjiGUDxlMe?authuser=1) 
 
 
 

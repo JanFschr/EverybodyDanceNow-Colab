@@ -8,7 +8,7 @@
 <html lang="en" data-color-mode="light">
   <head>
     <meta charset="utf-8">
-	
+
 <th align="center"><g-emoji class="g-emoji" alias="receipt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fe.png">🧾</g-emoji> Colab Notebook</th>
 <th align="center">Released (Windows)</th>
 <th align="center"><g-emoji class="g-emoji" alias="bookmark_tabs" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png">📑</g-emoji> Paper</th>
@@ -30,53 +30,58 @@
   </body>
 </html>
 
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-SjZXwNo20h14EYhe1TUdOokwclyuQOCXUnd76PnCUssPV0tTrKL6vnHWCbKBEXmeWgedspuTVNmy2ks5Jl9z+Q==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-4a3657c0da36d21d7811885ed5351d3a.css" />
   
-   
+    <link crossorigin="anonymous" media="all" integrity="sha512-8Z+f0e6DBG9ZzxgV2Wf00KIGBotnuoKMOm3Rv8UbrIEoE7GWgF3QfZSZn6Mm4VUdBYSwqlvZLzeuQjojgH6lUA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-f19f9fd1ee83046f59cf1815d967f4d0.css" />
     
     
     
     
+
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-8K2vvwbW+6H27Nad5ydg8PA2/aMD/LKq+EiK9s0U0hhVZxCI2tWBsYk9beAtisRw2j+Or5k2/F+6dk02nmj/PA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-f0adafbf.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-gTjC1ic0ersdwkGtjmhlO/Naqw5uUpfPWb0UdMEWOzhRM+OXnCryP3vYD7MRVVYGG8TEQLIQD33P4BBaivIWMA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-8138c2d6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-TZfq2T+XE31Mcp17bGlABjjeQ/69IH2f/sBvS31c4Jua0e1O/NE+aVbQtItMM2GFlmeEm13p/zyyWGIx10jVKQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-4d97ead9.js"></script>
   
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-PyCI7kbZeuGIxc19efkzW3U91bproCTnZ3mVXaUmCO7p0aeynTVpJ+C4m89lH73L7evsCFuhHDaw8ZwqntjtEA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-3f2088ee.js"></script>
   
-    
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-xDmMfbDOi7C1qDeTcUUIjKfOAG5qhfSNSHRf7wT0crqnTCqtHlO1jBZmRSpjbpn4RyitzX75K0wQ/dpHqO/gAg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-c4398c7d.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-obMR8mPKx8OvqRe34LgnUcxeJ1qujiA4ND3H6UX13ExMlA/WfHLjEzXRmgGRcRvN/8J1nzc+Z+jgz/PLTFy6zg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-a1b311f2.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-o7Wgi+lb9ce+9dvjWvB30ar51Bw0wcGhFZfQIzNGZfJ/7GZwYxVCsqgA4Q2o8yRq1QDUL1G1NxR0/3o9FoQ9JQ==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-a3b5a08b.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-scwzzcbKQ3b2bo4Y1BcFBMHXsT8F3fATHp7T1A/Zl3UAKEkJym7Gn1HSFHAKEEHbLO7j3q9U2S5VfYsHSgWXIw==" type="application/javascript" data-module-id="./chunk-lib.dev.js" data-src="https://github.githubassets.com/assets/chunk-lib.dev-b1cc33cd.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-tcH4xCRuMBAh1PruDaiwGnRIbHlF6bGLhxyCQ16uqok1cV5QFMguVPWJtN9KI0jGQOgN+Pha3+uOUXhXdfK/qw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-b5c1f8c4.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-E+H+wAtjiqutBvn2cnXzDIvmasIhYiS7i7JzOfFUwo+Ej8zT54OrJtP//RhwixnypgOpCF4JvqzYy6zOtORDmg==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-13e1fec0.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-P4TJl8vmit2awffHeOfwscoWyj+xMvQBwQfL06P3Gy+5u9J9IYMgUJ4Ui+pbXNbJnAg6xQEZXUN4xk6PEGIrDg==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-3f84c997.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-ZBICwPA18KYIgHbafqdjnTkxoCSNf/39rTlupkrtdpIWizECoux0ROzjAgyAx20Bf27VfshuBqrYwDqOVftyag==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-641202c0.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-su8FOuJFv0H16y8vmT+N3HiFpDQnHKiLz/UEdGxlCfgwnKBy202gaBmkcBpqXigRg+A8pMDXcSPIWSEW+IIKvQ==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-b2ef053a.js"></script>
   
   <script crossorigin="anonymous" defer="defer" integrity="sha512-kAubC2zgdOhVJIyMg/w5yyMOGfDBSC7Fum0HpKOtwiKkRMG5XxlUMKQxh4G4usCDw4mI4S1F8vVok4ueVvNrsg==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-900b9b0b.js"></script>
 <script crossorigin="anonymous" defer="defer" integrity="sha512-Ahh1vGV9jX7qzPdC1tA1y6PaLV9AbDPSlt2q8C7SUVVKTgoB5vDsUrKvaGh7Gj2Tv594XRcr0LjJdKA8HmL8iQ==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-021875bc.js"></script>
 
   <meta name="viewport" content="width=device-width">
   
-  <title>EverybodyDanceNow-Colab/README.md at master · justinjohn0306/EverybodyDanceNow-Colab</title>
-    <meta name="description" content="Motion Retargeting Video Subjects. Contribute to justinjohn0306/EverybodyDanceNow-Colab development by creating an account on GitHub.">
+  <title>EverybodyDanceNow/README.md at master · carolineec/EverybodyDanceNow</title>
+    <meta name="description" content="Motion Retargeting Video Subjects. Contribute to carolineec/EverybodyDanceNow development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars0.githubusercontent.com/u/34035011?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="justinjohn0306/EverybodyDanceNow-Colab" /><meta name="twitter:description" content="Motion Retargeting Video Subjects. Contribute to justinjohn0306/EverybodyDanceNow-Colab development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/34035011?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="justinjohn0306/EverybodyDanceNow-Colab" /><meta property="og:url" content="https://github.com/justinjohn0306/EverybodyDanceNow-Colab" /><meta property="og:description" content="Motion Retargeting Video Subjects. Contribute to justinjohn0306/EverybodyDanceNow-Colab development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/10407390?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="carolineec/EverybodyDanceNow" /><meta name="twitter:description" content="Motion Retargeting Video Subjects. Contribute to carolineec/EverybodyDanceNow development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/10407390?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="carolineec/EverybodyDanceNow" /><meta property="og:url" content="https://github.com/carolineec/EverybodyDanceNow" /><meta property="og:description" content="Motion Retargeting Video Subjects. Contribute to carolineec/EverybodyDanceNow development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/34035011/ws?session=eyJ2IjoiVjMiLCJ1IjozNDAzNTAxMSwicyI6NjI4OTM4NDAyLCJjIjo5NzIzNzM1MjYsInQiOjE2MTA1OTk5NTB9--19d9ffa9badc1e588aeb61f8de8447f16ba57472cb047c5137fa852dac4ade63" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/34035011/ws?session=eyJ2IjoiVjMiLCJ1IjozNDAzNTAxMSwicyI6NjI4OTM4NDAyLCJjIjoyMTc3MTU3MDIwLCJ0IjoxNjEwNjAwNDc1fQ==--8cb2f4bdd0d3a93d839955abf4accbc8921487b1e87cb93575d918f11b25e7c0" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="F543:71E6:7245EF:91A959:5FFFCE0E" data-pjax-transient="true" /><meta name="html-safe-nonce" content="efb1269dfced591c60b428d31b9844dc8fa23c0184bcb30d5f3fc14c990dd839" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9qdXN0aW5qb2huMDMwNi9FdmVyeWJvZHlEYW5jZU5vdy1Db2xhYiIsInJlcXVlc3RfaWQiOiJGNTQzOjcxRTY6NzI0NUVGOjkxQTk1OTo1RkZGQ0UwRSIsInZpc2l0b3JfaWQiOiI2MDM1NTM5MTk4NDU2NDU0MTExIiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="ff5622fd768861c3c3e765469d2c4ad9a833573269303c93b65e8882fc0b800f" data-pjax-transient="true" />
+  <meta name="request-id" content="F5A6:5064:2C873E:38FA99:5FFFD01B" data-pjax-transient="true" /><meta name="html-safe-nonce" content="efb1269dfced591c60b428d31b9844dc8fa23c0184bcb30d5f3fc14c990dd839" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYXJvbGluZWVjL0V2ZXJ5Ym9keURhbmNlTm93IiwicmVxdWVzdF9pZCI6IkY1QTY6NTA2NDoyQzg3M0U6MzhGQTk5OjVGRkZEMDFCIiwidmlzaXRvcl9pZCI6IjYwMzU1MzkxOTg0NTY0NTQxMTEiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="c10f029051a90b3d3910f3b1bcf467406c78714cbf9473c491a5a74a08ea6267" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:329508564" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:294812958" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -113,22 +118,22 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZjBiZGM1M2ZlMzRjNGVlYjRiYzcyYjI4YTAwOTEwOGE2ODYxYTQ4ZTA0YWUwYjc1Mjk1MzU5ZmVkM2RkMmY4Mnx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjIxMS41Mi41OSIsInJlcXVlc3RfaWQiOiJGNTQzOjcxRTY6NzI0NUVGOjkxQTk1OTo1RkZGQ0UwRSIsInRpbWVzdGFtcCI6MTYxMDU5OTk1MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="MjNjMTkyZjkxZTA2YWE2MTlkMjUzYjJmYjY0YmMwODdiMzk4NjAxZGQwMDZmNGRiMWFkNjU0Y2I5MTBlMDc5Mnx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjIxMS41Mi41OSIsInJlcXVlc3RfaWQiOiJGNUE2OjUwNjQ6MkM4NzNFOjM4RkE5OTo1RkZGRDAxQiIsInRpbWVzdGFtcCI6MTYxMDYwMDQ3NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,TASK_LIST_AUTOCOMPLETE,MULTI_WORD_SUGGESTER">
 
   <meta http-equiv="x-pjax-version" content="df483f4428c7fde3dc978e88872bc98dff003c32287e84557acf3cc8a7281ad1">
   
 
-        <link href="https://github.com/justinjohn0306/EverybodyDanceNow-Colab/commits/master.atom" rel="alternate" title="Recent Commits to EverybodyDanceNow-Colab:master" type="application/atom+xml">
+        <link href="https://github.com/carolineec/EverybodyDanceNow/commits/master.atom" rel="alternate" title="Recent Commits to EverybodyDanceNow:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/justinjohn0306/EverybodyDanceNow-Colab git https://github.com/justinjohn0306/EverybodyDanceNow-Colab.git">
+  <meta name="go-import" content="github.com/carolineec/EverybodyDanceNow git https://github.com/carolineec/EverybodyDanceNow.git">
 
-  <meta name="octolytics-dimension-user_id" content="34035011" /><meta name="octolytics-dimension-user_login" content="justinjohn0306" /><meta name="octolytics-dimension-repository_id" content="329508564" /><meta name="octolytics-dimension-repository_nwo" content="justinjohn0306/EverybodyDanceNow-Colab" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="294812958" /><meta name="octolytics-dimension-repository_parent_nwo" content="carolineec/EverybodyDanceNow" /><meta name="octolytics-dimension-repository_network_root_id" content="294812958" /><meta name="octolytics-dimension-repository_network_root_nwo" content="carolineec/EverybodyDanceNow" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+  <meta name="octolytics-dimension-user_id" content="10407390" /><meta name="octolytics-dimension-user_login" content="carolineec" /><meta name="octolytics-dimension-repository_id" content="294812958" /><meta name="octolytics-dimension-repository_nwo" content="carolineec/EverybodyDanceNow" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="294812958" /><meta name="octolytics-dimension-repository_network_root_nwo" content="carolineec/EverybodyDanceNow" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
 
-    <link rel="canonical" href="https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/carolineec/EverybodyDanceNow/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -184,7 +189,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="329508564" data-scoped-search-url="/justinjohn0306/EverybodyDanceNow-Colab/search" data-owner-scoped-search-url="/users/justinjohn0306/search" data-unscoped-search-url="/search" action="/justinjohn0306/EverybodyDanceNow-Colab/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="294812958" data-scoped-search-url="/carolineec/EverybodyDanceNow/search" data-owner-scoped-search-url="/users/carolineec/search" data-unscoped-search-url="/search" action="/carolineec/EverybodyDanceNow/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -202,7 +207,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="gYeG4hRyYdFv9fnUboYS7ni60zqSRkvHGfjcugwRtuee/QcD1xULWfQ3kxvx2T/sjv2BuNV8ngbGKnSbmh6hmQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="QGURfzSz34z16cTnHO8/VbK1kCmxwGLgI4w6RnWgNfVfH5Ce99S1BG4rriiDsBJXRPLCq/b6tyH8XpJn468iiw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -390,7 +395,7 @@
       <img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/34035011?s=40&amp;v=4" width="20" height="20" alt="@justinjohn0306" />
       justinjohn0306
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hzRIRvskvEpnoHGCoqnQD5bjJF2uwkGH/ArVcNUYLT6Cjscu95RUqotzpx5eTyPHleqP8jAjg6km5CJnVb/c3g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="azfhVcv1DyGFQI3OXbGCXpRllmI2z4iVcxfBUEwqwO1ujW49x0XnwWmTW1KhV3GWl2w9zaguSrup+TZHzI0xDQ==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -410,7 +415,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzQwMzUwMTEiLCJ0IjoxNjEwNTk5OTUwfQ==--5f7dd1708533efbe5f37e01a061ac4383f160954837b9c6bd4b49366fa6605ae">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzQwMzUwMTEiLCJ0IjoxNjEwNjAwNDc1fQ==--03c07144dfa23df15ec762393f55e4153efd3ce1d2a85ff1b1f10d7c95394a5d">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -452,10 +457,14 @@
   </a>
 
 
+  <div role="none" class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="carolineec/EverybodyDanceNow">This repository</span>
+  </div>
+    <a role="menuitem" class="dropdown-item" href="/carolineec/EverybodyDanceNow/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
+      New issue
+    </a>
 
-  <a role="menuitem" class="dropdown-item" href="/new/project" data-ga-click="Header, create new project">
-    New project
-  </a>
 
   </details-menu>
 </details>
@@ -561,20 +570,17 @@
 
         <div class="flex-auto min-width-0 width-fit mr-3">
             <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
-    <svg class="octicon octicon-repo-forked text-gray mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+    <svg class="octicon octicon-repo text-gray mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/justinjohn0306/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/justinjohn0306">justinjohn0306</a>
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/carolineec/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/carolineec">carolineec</a>
     </span>
     <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" class="" href="/justinjohn0306/EverybodyDanceNow-Colab">EverybodyDanceNow-Colab</a>
+    <a data-pjax="#js-repo-pjax-container" class="" href="/carolineec/EverybodyDanceNow">EverybodyDanceNow</a>
   </strong>
   
 </h1>
 
-  <span class="text-small lh-condensed-ultra no-wrap mt-1" data-repository-hovercards-enabled>
-    forked from <a data-hovercard-type="repository" data-hovercard-url="/carolineec/EverybodyDanceNow/hovercard" href="/carolineec/EverybodyDanceNow">carolineec/EverybodyDanceNow</a>
-  </span>
 
         </div>
 
@@ -588,10 +594,10 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:329508564,&quot;originating_url&quot;:&quot;https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="77ad7d2c3298eb2e6bac8bf040728c5b4caacbd3c3341d827ec82a35728be6fe" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:294812958,&quot;originating_url&quot;:&quot;https://github.com/carolineec/EverybodyDanceNow/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="d25edee3669a564f03dc70bed254f81fd0ad94441666453bf6ecdf7ab2c6ab02" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
-              hidden
+              
               
               data-target="notifications-list-subscription-form.unwatchButtonCopy"
             >
@@ -607,7 +613,7 @@
               Stop ignoring
             </span>
             <span
-              
+              hidden
               
               data-target="notifications-list-subscription-form.watchButtonCopy"
             >
@@ -632,9 +638,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="y/3jNAknhFUWU9f3a49DHqvm1k5sIMe4hin8utyDTMkn5Qu/5UWsdWmXFalhWBKge/rA4Z/7265Uq9+zJwNP9g==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DqR2BjuPBsMIc6wf5wvkMgCoGQoHq1AzI4xJ7JX1igjivJ6N1+0u43e3bkHt3LWM0LQPpfRwTCXxDmrlbnWJNw==" />
 
-                <input type="hidden" name="repository_id" value="329508564">
+                <input type="hidden" name="repository_id" value="294812958">
 
                 <button
                   type="submit"
@@ -642,7 +648,7 @@
                   value="included"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="true"
+                  aria-checked="false"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                   
                 >
@@ -665,7 +671,7 @@
                   value="subscribed"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="false"
+                  aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                 >
                   <span class="f5">
@@ -734,9 +740,9 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QuT4NXemD+sCvQDIUa0BXrAdng6er3BPt6W44PYUgb2u/BC+m8Qny315wpZbelDgYAGIoW10bFllJ5vpDZSCgg==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sctZHER1nyt5kOv7bA9MTvX8y3OUeL2TN1xo6lfa7idd07GXqBe3CwZUKaVm2B3wJeDd3GejoYXl3kvjrFrtGA==" />
 
-              <input type="hidden" name="repository_id" value="329508564">
+              <input type="hidden" name="repository_id" value="294812958">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -787,12 +793,6 @@
                       Issues
                     </label>
 
-                      <span
-                        class="tooltipped tooltipped-nw mr-2 p-1 float-right"
-                        
-                        aria-label="Issues are not enabled for this repo">
-                        <svg style="fill: var(--color-icon-tertiary)" class="octicon octicon-info" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path></svg>
-                      </span>
                   </div>
                   <div class="form-checkbox mr-3 ml-6 ml-sm-5 mb-2 mt-0">
                     <label class="f5 text-normal">
@@ -864,11 +864,11 @@
         <div class="notifications-component-dialog-overlay"></div>
       </details>
         <a class="social-count"
-          href="/justinjohn0306/EverybodyDanceNow-Colab/watchers"
-          aria-label="0 users are watching this repository"
+          href="/carolineec/EverybodyDanceNow/watchers"
+          aria-label="12 users are watching this repository"
           data-target="notifications-list-subscription-form.socialCount"
         >
-          0
+          12
         </a>
 
     </notifications-list-subscription-form>
@@ -876,36 +876,36 @@
   </li>
 
   <li>
-        <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/justinjohn0306/EverybodyDanceNow-Colab/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EZd/lduPAlOKvBE6IMrrPWnwcbVUwVgH9rXwwl3I8G0Wpgot8S6AVflmgO2rTNL7CMLRag2CyYxqrvu1PFfXVw==" />
+        <div class="d-block js-toggler-container js-social-container starring-container on">
+    <form class="starred js-social-form" action="/carolineec/EverybodyDanceNow/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="p1s0kMhD37cpH9GHpM0NntkoU1hp13ExbPTXlleunomTiazSe6BnQsPfeYKoV8VmK5cWcOj9jDEc16rqVyMRYQ==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar justinjohn0306/EverybodyDanceNow-Colab" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:329508564,&quot;originating_url&quot;:&quot;https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="dd48f7ad279068bf4a4355df0f2a41132c8084014a3a658758504dc7b18f86c2" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar carolineec/EverybodyDanceNow" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:294812958,&quot;originating_url&quot;:&quot;https://github.com/carolineec/EverybodyDanceNow/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="557d8da887e6a9ab2e3e5184c1a573a019f6277b424b5313fe763d261af326e9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
           Unstar
-</span></button>        <a class="social-count js-social-count" href="/justinjohn0306/EverybodyDanceNow-Colab/stargazers"
-           aria-label="0 users starred this repository">
-           0
+</span></button>        <a class="social-count js-social-count" href="/carolineec/EverybodyDanceNow/stargazers"
+           aria-label="316 users starred this repository">
+           316
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/justinjohn0306/EverybodyDanceNow-Colab/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="F8nG2ce24TzkzpkvHm/5+/h1FH4gQ3pFrmSi5bSC2A17NzuJywPRNkiSDCTWNF4vGy5rqTbhJ4nGgVl1SGghyQ==" />
+    <form class="unstarred js-social-form" action="/carolineec/EverybodyDanceNow/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qC/PXm4iS9dW52qnbSNYV84za0FmWK6R1kRYLAwnaFapC7Lgjuaf56wgSIMeUM+aFe6UWMt9M94rtyRFKM3mxw==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star justinjohn0306/EverybodyDanceNow-Colab" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:329508564,&quot;originating_url&quot;:&quot;https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="cffb3689b111773ec154b4fa6d132f6e44f4b7264edbb04663ca30c9ecb80ccf" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star carolineec/EverybodyDanceNow" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:294812958,&quot;originating_url&quot;:&quot;https://github.com/carolineec/EverybodyDanceNow/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="f423ff1294d8e44dd03232da1ef6ec90dc40586e3f9ebacaecb9deae09a5adf8" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
           Star
-</span></button>        <a class="social-count js-social-count" href="/justinjohn0306/EverybodyDanceNow-Colab/stargazers"
-           aria-label="0 users starred this repository">
-          0
+</span></button>        <a class="social-count js-social-count" href="/carolineec/EverybodyDanceNow/stargazers"
+           aria-label="316 users starred this repository">
+          316
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <span class="btn btn-sm btn-with-count disabled tooltipped tooltipped-sw" aria-label="Cannot fork because you own this repository and are not a member of any organizations.">
-            <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
-            Fork
-</span>
-      <a href="/justinjohn0306/EverybodyDanceNow-Colab/network/members" class="social-count"
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/carolineec/EverybodyDanceNow/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZWcaJsqK9Vtyacuy3KBrSKymVMQ5UJ61LFEakVRSnVcQYnHopv3UxNtuXbsbgWe1ftR0eNuOhUIjojEV2ZJBag==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:294812958,&quot;originating_url&quot;:&quot;https://github.com/carolineec/EverybodyDanceNow/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="35c62c972a9b3c2029f6964e5a96f440d52ad65855408958fd14b1ed2dfefbe7" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of carolineec/EverybodyDanceNow to your account" aria-label="Fork your own copy of carolineec/EverybodyDanceNow to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+                Fork
+</button></form>
+      <a href="/carolineec/EverybodyDanceNow/network/members" class="social-count"
          aria-label="44 users forked this repository">
         44
       </a>
@@ -917,7 +917,7 @@
 <nav aria-label="Repository" data-pjax="#js-repo-pjax-container" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 bg-gray-light">
   <ul class="UnderlineNav-body list-style-none ">
           <li class="d-flex">
-        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /justinjohn0306/EverybodyDanceNow-Colab" href="/justinjohn0306/EverybodyDanceNow-Colab">
+        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /carolineec/EverybodyDanceNow" href="/carolineec/EverybodyDanceNow">
               <svg class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
             <span data-content="Code">Code</span>
               <span title="Not available" class="Counter "></span>
@@ -925,15 +925,23 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /justinjohn0306/EverybodyDanceNow-Colab/pulls" href="/justinjohn0306/EverybodyDanceNow-Colab/pulls">
-              <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
-            <span data-content="Pull requests">Pull requests</span>
-              <span title="0" hidden="hidden" class="Counter ">0</span>
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /carolineec/EverybodyDanceNow/issues" href="/carolineec/EverybodyDanceNow/issues">
+              <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
+            <span data-content="Issues">Issues</span>
+              <span title="8" class="Counter ">8</span>
 </a>
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /justinjohn0306/EverybodyDanceNow-Colab/actions" href="/justinjohn0306/EverybodyDanceNow-Colab/actions">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /carolineec/EverybodyDanceNow/pulls" href="/carolineec/EverybodyDanceNow/pulls">
+              <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
+            <span data-content="Pull requests">Pull requests</span>
+              <span title="1" class="Counter ">1</span>
+</a>
+
+      </li>
+      <li class="d-flex">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /carolineec/EverybodyDanceNow/actions" href="/carolineec/EverybodyDanceNow/actions">
               <svg class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg>
             <span data-content="Actions">Actions</span>
               <span title="Not available" class="Counter "></span>
@@ -941,7 +949,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /justinjohn0306/EverybodyDanceNow-Colab/projects" href="/justinjohn0306/EverybodyDanceNow-Colab/projects">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /carolineec/EverybodyDanceNow/projects" href="/carolineec/EverybodyDanceNow/projects">
               <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
             <span data-content="Projects">Projects</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -949,7 +957,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /justinjohn0306/EverybodyDanceNow-Colab/wiki" href="/justinjohn0306/EverybodyDanceNow-Colab/wiki">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /carolineec/EverybodyDanceNow/wiki" href="/carolineec/EverybodyDanceNow/wiki">
               <svg class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
             <span data-content="Wiki">Wiki</span>
               <span title="Not available" class="Counter "></span>
@@ -957,25 +965,17 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /justinjohn0306/EverybodyDanceNow-Colab/security" href="/justinjohn0306/EverybodyDanceNow-Colab/security">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /carolineec/EverybodyDanceNow/security" href="/carolineec/EverybodyDanceNow/security">
               <svg class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path></svg>
             <span data-content="Security">Security</span>
-              <include-fragment src="/justinjohn0306/EverybodyDanceNow-Colab/security/overall-count" accept="text/fragment+html"></include-fragment>
+              <include-fragment src="/carolineec/EverybodyDanceNow/security/overall-count" accept="text/fragment+html"></include-fragment>
 </a>
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /justinjohn0306/EverybodyDanceNow-Colab/pulse" href="/justinjohn0306/EverybodyDanceNow-Colab/pulse">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /carolineec/EverybodyDanceNow/pulse" href="/carolineec/EverybodyDanceNow/pulse">
               <svg class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg>
             <span data-content="Insights">Insights</span>
-              <span title="Not available" class="Counter "></span>
-</a>
-
-      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7settings-tab" data-ga-click="Repository, Navigation click, Settings tab" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications repository_environments /justinjohn0306/EverybodyDanceNow-Colab/settings" href="/justinjohn0306/EverybodyDanceNow-Colab/settings">
-              <svg class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-            <span data-content="Settings">Settings</span>
               <span title="Not available" class="Counter "></span>
 </a>
 
@@ -993,36 +993,36 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab" href="/justinjohn0306/EverybodyDanceNow-Colab">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow" href="/carolineec/EverybodyDanceNow">
                     Code
 </a>                </li>
-                <li data-menu-item="i1pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab/pulls" href="/justinjohn0306/EverybodyDanceNow-Colab/pulls">
+                <li data-menu-item="i1issues-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow/issues" href="/carolineec/EverybodyDanceNow/issues">
+                    Issues
+</a>                </li>
+                <li data-menu-item="i2pull-requests-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow/pulls" href="/carolineec/EverybodyDanceNow/pulls">
                     Pull requests
 </a>                </li>
-                <li data-menu-item="i2actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab/actions" href="/justinjohn0306/EverybodyDanceNow-Colab/actions">
+                <li data-menu-item="i3actions-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow/actions" href="/carolineec/EverybodyDanceNow/actions">
                     Actions
 </a>                </li>
-                <li data-menu-item="i3projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab/projects" href="/justinjohn0306/EverybodyDanceNow-Colab/projects">
+                <li data-menu-item="i4projects-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow/projects" href="/carolineec/EverybodyDanceNow/projects">
                     Projects
 </a>                </li>
-                <li data-menu-item="i4wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab/wiki" href="/justinjohn0306/EverybodyDanceNow-Colab/wiki">
+                <li data-menu-item="i5wiki-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow/wiki" href="/carolineec/EverybodyDanceNow/wiki">
                     Wiki
 </a>                </li>
-                <li data-menu-item="i5security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab/security" href="/justinjohn0306/EverybodyDanceNow-Colab/security">
+                <li data-menu-item="i6security-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow/security" href="/carolineec/EverybodyDanceNow/security">
                     Security
 </a>                </li>
-                <li data-menu-item="i6insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab/pulse" href="/justinjohn0306/EverybodyDanceNow-Colab/pulse">
+                <li data-menu-item="i7insights-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /carolineec/EverybodyDanceNow/pulse" href="/carolineec/EverybodyDanceNow/pulse">
                     Insights
-</a>                </li>
-                <li data-menu-item="i7settings-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /justinjohn0306/EverybodyDanceNow-Colab/settings" href="/justinjohn0306/EverybodyDanceNow-Colab/settings">
-                    Settings
 </a>                </li>
             </ul>
 
@@ -1041,9 +1041,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/justinjohn0306/EverybodyDanceNow-Colab/blob/398483bf9ced9a637a0f6d70f519a249bb0e2fe8/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/carolineec/EverybodyDanceNow/blob/b094a6ab70071784d7aacd99063659c640ef7e76/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:eb7266f9d612246f1048025032129f4bee7b80ce730c0c382fe8789f14104fdc -->
+    <!-- blob contrib key: blob_contributors:v22:178edd7f7f5a434ae626ed22ee7ee02ad4a54ee1318805e306356436171a1366 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1057,7 +1057,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/justinjohn0306/EverybodyDanceNow-Colab/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/carolineec/EverybodyDanceNow/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -1069,9 +1069,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/justinjohn0306/EverybodyDanceNow-Colab"><span>EverybodyDanceNow-Colab</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/carolineec/EverybodyDanceNow"><span>EverybodyDanceNow</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
-      <a href="/justinjohn0306/EverybodyDanceNow-Colab/find/master"
+      <a href="/carolineec/EverybodyDanceNow/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1084,7 +1084,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:329508564,&quot;originating_url&quot;:&quot;https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="2761ed97fc9dcb25d1a18a29cacc12b5e60314bdf37fdce2bf1cd7d74931ddab" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/justinjohn0306/EverybodyDanceNow-Colab/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:294812958,&quot;originating_url&quot;:&quot;https://github.com/carolineec/EverybodyDanceNow/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}" data-hydro-click-hmac="a421cc99bf617389c723884e9dbc9ae814dd00ba5e72d4bcc5743105543f35d9" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/carolineec/EverybodyDanceNow/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -1108,17 +1108,76 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/justinjohn0306/EverybodyDanceNow-Colab/contributors/master/README.md" class="commit-loader">
-        <div class="Box-header Box-header--blue d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header Box-header--blue Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <img class="avatar avatar-user" width="24" height="24" alt="" src="https://camo.githubusercontent.com/11a29168cd4e0ed7cef821b82ca4defac01feaa3583ae4c89a3017486637e999/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f35663237393763616464623863386266333533323664343330393361346164623f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" data-canonical-src="https://0.gravatar.com/avatar/5f2797caddb8c8bf35326d43093a4adb?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=140" />
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <span class="text-bold link-gray-dark">Caroline Chan</span>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span>
+                <a data-pjax="true" title="update bibtex" class="link-gray" href="/carolineec/EverybodyDanceNow/commit/b094a6ab70071784d7aacd99063659c640ef7e76">update bibtex</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/carolineec/EverybodyDanceNow/commit/b094a6ab70071784d7aacd99063659c640ef7e76/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono link-gray" href="/carolineec/EverybodyDanceNow/commit/b094a6ab70071784d7aacd99063659c640ef7e76" data-pjax>b094a6a</a>
+            <span itemprop="dateModified"><relative-time datetime="2020-10-08T18:34:55Z" class="no-wrap">Oct 8, 2020</relative-time></span>
+          </span>
+
+          <a data-pjax href="/carolineec/EverybodyDanceNow/commits/master/README.md" class="ml-3 no-wrap link-gray-dark no-underline">
+            <svg class="octicon octicon-history text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
+      <summary class="link-gray-dark">
+        <svg class="octicon octicon-people text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
+        <strong>0</strong>
+        
+        contributors
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/carolineec/EverybodyDanceNow/contributors-list/master/README.md" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg viewBox="0 0 16 16" fill="none" style="box-sizing: content-box; color: var(--color-icon-primary);" class="my-3 mx-auto d-block" width="32" height="32">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke">
+    <animateTransform attributeName="transform" type="rotate" from="0 8 8" to="360 8 8" dur="1s" repeatCount="indefinite" />
+  </path>
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
 
@@ -1141,28 +1200,28 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/justinjohn0306/EverybodyDanceNow-Colab/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/justinjohn0306/EverybodyDanceNow-Colab/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/carolineec/EverybodyDanceNow/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/carolineec/EverybodyDanceNow/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/justinjohn0306/EverybodyDanceNow-Colab?branch=master&amp;filepath=README.md"
+             href="x-github-client://openRepo/https://github.com/carolineec/EverybodyDanceNow?branch=master&amp;filepath=README.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/justinjohn0306/EverybodyDanceNow-Colab/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="v55iG6oAwBHVmhM+k7e0/aHjbIrrUV0c5GL3Uow3x/UyK342ZyKGRaGwOS0BBXCbIG/W30flTsmELHBgo4cb9Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/carolineec/EverybodyDanceNow/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QHlqxJs0Kql35k/E2R5bf6djriavgSXyctvft9SxZmyteKFK2aF3tQl1qH0kjMz7NBf2pcwdI1LG2yKLJ3w+/w==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/justinjohn0306/EverybodyDanceNow-Colab/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="b/rhlkwr39zMtCdFtOzOU/ImVAg+uSlNeW5VPWyMcZTiaepvcGuh9R7gv5nFaBdUwDBZwxZzFPznmYcQGCHVnw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/carolineec/EverybodyDanceNow/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YX+295bL3WwLsocJIPpq/LVg5Sv/GM3B+xDtPjNw8aB3PidNXljg2a9GhJXm7AtFaEJY0EgONlqzDVDwTFs/kQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete this file" data-disable-with>
+              aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
             </button>
 </form>    </div>
@@ -1372,12 +1431,12 @@ No smoothing</li>
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/justinjohn0306/EverybodyDanceNow-Colab/find-definition"
+     data-tagsearch-url="/carolineec/EverybodyDanceNow/find-definition"
      data-tagsearch-ref="master"
      data-tagsearch-path="README.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:329508564,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}"
-     data-hydro-click-hmac="170ffd5b9acaa6be90c346e23fca15f48b7899265c77c8af07a3b5aad7c56327">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:294812958,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/carolineec/EverybodyDanceNow/blob/master/README.md&quot;,&quot;user_id&quot;:34035011}}"
+     data-hydro-click-hmac="4b4e7c227b9b4c83785fcf6abf371fbc50dcd633d8180baec9be461dc042d666">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>

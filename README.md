@@ -1,4 +1,4 @@
-|  🧾 Colab Notebook  | : [Link](https://github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/Justin_EverybodyDanceNow.ipynb) 
+|  🧾 Colab Notebook  | : [Link](https://colab.research.google.com/github.com/justinjohn0306/EverybodyDanceNow-Colab/blob/master/Justin_EverybodyDanceNow.ipynb) 
 
 
 

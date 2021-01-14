@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 	
-	<th align="center"><g-emoji class="g-emoji" alias="receipt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fe.png">🧾</g-emoji> Colab Notebook</th>
+<th align="center"><g-emoji class="g-emoji" alias="receipt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fe.png">🧾</g-emoji> Colab Notebook</th>
 <th align="center">Released (Windows)</th>
 <th align="center"><g-emoji class="g-emoji" alias="bookmark_tabs" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png">📑</g-emoji> Paper</th>
 <th align="center"><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Website</th>
